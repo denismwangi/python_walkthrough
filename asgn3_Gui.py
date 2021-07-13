@@ -1,6 +1,6 @@
 print("Assignment 3")
 your_name = input("What is your name?")
-# print(your_name)
+
 print("Please Enter the names of your three best friend")
 friends = []
 for x in range(3):
